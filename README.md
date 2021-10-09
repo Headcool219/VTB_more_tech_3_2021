@@ -5,10 +5,8 @@
 
 ## Общая структура файла:
 
-columns:
-
-  col1
-  
+columns:  
+  col1  
   col2
   
   ...
